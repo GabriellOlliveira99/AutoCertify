@@ -6,7 +6,7 @@
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/AutoCertify.git
+    git clone [https://github.com/GabriellOlliveira99/AutoCertify.git]
     cd AutoCertify
     ```
 
