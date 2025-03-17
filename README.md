@@ -1,6 +1,6 @@
 # AutoCertify
 
-![Certificado Exemplo](src/certificates/exemplo_certificado.png)
+![Certificado Exemplo](./src/certificates/exemplo_certificado.png)
 
 ## Configuração
 
