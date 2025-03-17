@@ -1,7 +1,5 @@
 # AutoCertify
 
-![Certificado Exemplo](./src/certificates/exemplo_certificado.png)
-
 ## Configuração
 
 1. Clone o repositório:
